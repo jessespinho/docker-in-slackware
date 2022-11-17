@@ -1,11 +1,11 @@
 # docker-in-slackware
 SlackBuilds do Docker 20.10.21 para instalação em Slackware 15.
 
-####################################
-##### Docker (Community Edition)
-##########################
+------------------------------
+## Docker (Community Edition)
+---------------------------
 
-Procedimentos adaptados do <https://slackbuilds.org>.
+Procedimentos adaptados do [SlackBuilds] (https://slackbuilds.org).
 
 1. Clonar este repositório para obter os arquivos descritos;
 
