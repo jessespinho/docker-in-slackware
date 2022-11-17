@@ -36,7 +36,7 @@ clouds and more.
 
 Homepage: https://www.docker.com/products/container-runtime
 
-Executing install script for docker-ce-20.10.21-x86_64-jspinho.txz.
+Executing install script for docker-ce-20.10.21-x86_64-jspinho.txz.  
 Package docker-ce-20.10.21-x86_64-jspinho.txz installed.
 
 (...) divirta-se!!!
