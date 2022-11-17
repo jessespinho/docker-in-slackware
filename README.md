@@ -23,22 +23,16 @@ Procedimentos adaptados do [*SlackBuilds*](https://slackbuilds.org).
 | Installing new package /tmp/docker-ce-20.10.21-x86_64-jspinho.txz
 +==============================================================================
 
-Verifying package docker-ce-20.10.21-x86_64-jspinho.txz.
-Installing package docker-ce-20.10.21-x86_64-jspinho.txz:
+Verifying package docker-ce-20.10.21-x86_64-jspinho.txz. 
+Installing package docker-ce-20.10.21-x86_64-jspinho.txz: 
 PACKAGE DESCRIPTION:
 
 docker-ce (manager for applications in Linux containers) 
-
 Docker is an open-source project to easily create lightweight, 
-
 portable, self-sufficient containers from any application. The same 
-
 container that a developer builds and tests on a laptop can run at 
-
 scale, in production, on VMs, bare metal, OpenStack clusters, public 
-
 clouds and more. 
-
 
 Homepage: https://www.docker.com/products/container-runtime
 
