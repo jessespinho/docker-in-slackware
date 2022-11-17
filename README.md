@@ -19,9 +19,9 @@ Procedimentos adaptados do [*SlackBuilds*](https://slackbuilds.org).
 
 6. Por padrão, o arquivo é gerado no diretório "/tmp". Para concluir o processo de instalação, executar o comando seguinte: sudo upgradepkg --install-new /tmp/docker-ce-20.10.21-x86_64-jspinho.txz
 
-+==============================================================================
-| Installing new package /tmp/docker-ce-20.10.21-x86_64-jspinho.txz
-+==============================================================================
++==============================================================================. 
+| Installing new package /tmp/docker-ce-20.10.21-x86_64-jspinho.txz. 
++==============================================================================. 
 
 Verifying package docker-ce-20.10.21-x86_64-jspinho.txz.  
 Installing package docker-ce-20.10.21-x86_64-jspinho.txz:  
