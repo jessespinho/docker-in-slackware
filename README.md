@@ -7,7 +7,8 @@ SlackBuilds do Docker 20.10.21 para instalação em Slackware 15.
 
 Procedimentos adaptados do <https://slackbuilds.org>.
 
-Necessário realizar o download de todos os pacotes deste repositório, inclusive já consta o ".tgz" da versão "20.10.21".
+Necessário realizar o download do pacote ".tgz" da versão "20.10.21":
+https://download.docker.com/linux/static/stable/x86_64/
 
 Após realizar o download, precisará criar o grupo 'docker' por meio de um usuário com super privilégios: 
 
