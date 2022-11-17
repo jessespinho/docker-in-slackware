@@ -9,7 +9,7 @@ Procedimentos adaptados do [SlackBuilds](https://slackbuilds.org).
 
 1. Clonar este repositório para obter os arquivos descritos;
 
-2. Realizar o download do pacote ".tgz" da versão "20.10.21" no diretório em que consta o SlackBuid: [package tgz](https://download.docker.com/linux/static/stable/x86_64).
+2. Realizar o download do pacote ".tgz" da versão "20.10.21" no diretório em que consta o SlackBuid: [docker-20.10.21.tgz](https://download.docker.com/linux/static/stable/x86_64/docker-20.10.21.tgz).
 
 3. Após realizar o download, precisará criar o grupo 'docker' por meio de um usuário com super privilégios: sudo groupadd -r -g 281 docker
 
